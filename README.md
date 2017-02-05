@@ -1,8 +1,8 @@
 # Lian
 
 ## Author
-**Jiadong Yan**  
-**Yifan Shi**
+- **[Jiadong Yan](https://frankyan93.github.io/)**
+- **Yifan Shi**
 
 ## Description
 Lian-100 is a small clicking game written in Processing and aligned with Arduino.
